@@ -1,46 +1,46 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Lab | Customer Analysis Final Round
+# Lab | Análise de clientes
 
-For this lab, we still keep using the `marketing_customer_analysis.csv` file that you can find in the `files_for_lab` folder.
+Nesse exercício, vamos usar o arquivo `marketing_customer_analysis.csv` dentro da pasta `files_for_lab`.
 
-It's time to put it all together. Remember the previous rounds and follow the steps as shown in previous lectures.
+Vamos seguir os seguintes passos.
 
-### 01 - Problem (case study)
+### 01 - Problema 
 
-- Data Description.
-- Goal.
+- Quais são as colunas dessa tabela? Temos problemas de correlação, variância ou cardinalidade?
+- Seu objetivo é prever a coluna Total Claim Amount.
 
-### 02 - Getting Data
+### 02 - Importando dados
 
-- Read the `.csv` file.
+- Ler o arquivo `.csv`.
 
-### 03 - Cleaning/Wrangling/EDA
+### 03 - Limpeza/Manipulação/Análise de dados exploratória
 
-- Change headers names.
-- Deal with NaN values.
-- Categorical Features.
-- Numerical Features.
-- Exploration.
+- Mude o nome das colunas
+- Análise variáveis númericas.
+- Explore os dados para encontrar padrões.
 
-### 04 - Processing Data
+### 04 - Processamento
 
-- Dealing with outliers.
-- Normalization.
-- Encoding Categorical Data.
-- Splitting into train set and test set.
+- Lide com valores nulos.
+- Lide com variáveis categóricas.
+- Corrija a variável de data
+- Lide com outliers.
+- Deixe as variáveis na mesma escala.
+- Separe treino e teste.
 
-### 05 - Modeling
+### 05 - Modelagem
 
-- Apply model.
+- Aplique o modelo.
 
-### 06 - Model Validation
+### 06 - Validação de modelo
 
 - R2.
 - MSE.
 - RMSE.
 - MAE.
 
-### 07 - Reporting
+### 07 - Relatório
 
-- Present results.
+- Apresente os resultados.

@@ -40,7 +40,12 @@ Vamos seguir os seguintes passos.
 - MSE.
 - RMSE.
 - MAE.
+### 07 - Feature Selection
 
-### 07 - Relatório
 
+- Aplique a técnica de variance treshold no modelo, quais colunas foram eliminadas? O que aconteceu com a nota do modelo após a eliminação de colunas?
+
+- Aplique a técnica de Recursive Feature Elimination no modelo, quais colunas foram eliminadas? O que aconteceu com a nota do modelo após a eliminação de colunas?
+
+### 08 - Relatório
 - Apresente os resultados.

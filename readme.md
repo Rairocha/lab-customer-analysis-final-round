@@ -4,7 +4,7 @@
 
 Nesse exercício, vamos usar o arquivo `marketing_customer_analysis.csv` dentro da pasta `files_for_lab`.
 
-Vamos seguir os seguintes passos.
+Vamos fazer os mesmos passos do exercício anterior, adicionando o passo de tunagem de hiperparametros do modelo. Você pode modificar o mesmo arquivo criado no lab anterior.
 
 ### 01 - Problema 
 
@@ -47,5 +47,8 @@ Vamos seguir os seguintes passos.
 
 - Aplique a técnica de Recursive Feature Elimination no modelo, quais colunas foram eliminadas? O que aconteceu com a nota do modelo após a eliminação de colunas?
 
-### 08 - Relatório
+### 08 - Tunagem de hyperparametros
+- Use o grid search para buscar os melhores hyperparametros tanto para o modelo de boosting quanto para o modelo de random forest. Ouve alguma melhora nas métricas do modelo?
+- 
+### 09 - Relatório
 - Apresente os resultados.

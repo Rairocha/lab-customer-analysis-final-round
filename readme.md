@@ -48,7 +48,11 @@ Vamos fazer os mesmos passos do exercício anterior, adicionando o passo de tuna
 - Aplique a técnica de Recursive Feature Elimination no modelo, quais colunas foram eliminadas? O que aconteceu com a nota do modelo após a eliminação de colunas?
 
 ### 08 - Tunagem de hyperparametros
-- Use o grid search para buscar os melhores hyperparametros tanto para o modelo de boosting quanto para o modelo de random forest. Ouve alguma melhora nas métricas do modelo?
-- 
-### 09 - Relatório
+- Use o grid search para buscar os melhores hyperparametros tanto para o modelo de boosting quanto para o modelo de random forest. Houve alguma melhora nas métricas do modelo?
+ 
+### 09 - Pipelines
+- Quais tratamentos podem ser modificados para funções do sklearn e colocados em uma pipeline? Crie uma pipeline para modelagem de customers
+- Para fazer esses tratamentos quais argumentos do pycaret devem ser utilizados? Qual é o melhor r2 obtido pelo pycaret?
+
+### 10 - Relatório
 - Apresente os resultados.
